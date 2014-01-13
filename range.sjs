@@ -45,9 +45,3 @@ macro _range {
 		})($start, $end)
 	}
 }
-
-var x = 0 .. 9;
-3 .. 20
-
-
-
