@@ -16,4 +16,5 @@ let if = macro {
 	} => {
 		$body if $predicate 
 	}
+	rule {} => { if }
 }
