@@ -2,11 +2,12 @@
  * Examples
  *
  */
- 
- 
+
 unless (5 < 4) {
 	console.log("hi");
 	console.log("no no");
+} else {
+  console.log("yup");
 }
 
 console.log("lol") unless (5 < 4);
