@@ -18,3 +18,5 @@ let if = macro {
 	}
 	rule {} => { if }
 }
+
+export if;

@@ -70,3 +70,14 @@ macro @ {
 		this.
 	}
 }
+
+export is;
+export isnt;
+export not;
+export and;
+export or;
+export yes;
+export on;
+export no;
+export off;
+export @;
